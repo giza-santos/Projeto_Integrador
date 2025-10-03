@@ -1,0 +1,12 @@
+ClassDiagram
+ class Empresa{ 
+    -ID: int
+    -nome:string
+    -endereco:string
+    -telefone:int
+    -email:string
+    +editar(endereco,email string, telefone int):void
+    
+
+    
+     }
