@@ -1,3 +1,5 @@
+```mermaid
+    classDiagram
 class Banco{
 
 
@@ -10,3 +12,4 @@ class Banco{
  + abrirConta(tipo string, saldo float):int
  + fecharConta(ID int):bool
  }
+ ```
